@@ -1,0 +1,15 @@
+streamlit==1.31.1
+pandas==2.2.0
+plotly==5.18.0
+fastapi==0.109.1
+uvicorn==0.27.0
+python-dotenv==1.0.1
+langchain-openai==0.0.5
+langgraph==0.0.10
+google-search-results==2.4.2
+pydantic==2.6.1
+typing-extensions==4.9.0
+openai==1.12.0
+python-dateutil==2.8.2
+regex==2023.12.25
+airtop==0.1.0
